@@ -1,0 +1,47 @@
+[
+    {
+        "nome": "Glauber Franco",
+        "nota": 10,
+        "curso": "Engenheiro de Qualidade de Software"
+    },
+    {
+        "nome": "Glauber S Franco",
+        "nota": 10,
+        "curso": "Cientista de Dados"
+    },
+    {
+        "nome": "Glauber Souza Franco",
+        "nota": 10,
+        "curso": "Python"
+    },
+    {
+        "nome": "Glauber de Souza Franco",
+        "nota": 10,
+        "curso": "Java"
+    },
+    {
+        "nome": "Fábio Araujo",
+        "cargo": "professor",
+        "curso": "QA"
+    },
+    {
+        "nome": "Mariana Araujo",
+        "cargo": "professora",
+        "curso": ["QA", "MongoDB", "SQL"]
+    },
+    {
+        "nome": "Simão Pedro",
+        "nota": 7,
+        "curso": "QA"
+    },
+    {
+        "nome": "Maria Madalena",
+        "nota": 8,
+        "curso": "SQL"
+    },
+    {
+        "nome": "Thiago James",
+        "nota": 9,
+        "curso": "Python"
+    }
+]
